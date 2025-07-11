@@ -1,0 +1,24 @@
+title: NJ PATH Train Times Privacy Policy
+description: Privacy policy for the NJ PATH Train Times iOS app
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# GitHub Pages settings
+github:
+  repository_name: NJPathTimesIOSDocs
+  
+# Site settings
+url: "https://rdlin.github.io"
+baseurl: "/NJPathTimesIOSDocs"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude files
+exclude:
+  - README.md
+  - privacy-policy.md
